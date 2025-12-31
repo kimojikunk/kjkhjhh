@@ -196,4 +196,5 @@ def main():
                 st.text_area("生成内容", value=result, height=500)
 
 if __name__ == "__main__":
+
     main()
